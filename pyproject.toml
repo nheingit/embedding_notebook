@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "notebook"
+name = "embedding_notebook"
 version = "0.1.0"
 description = ""
 authors = ["nheingit <60185486+nheingit@users.noreply.github.com>"]
